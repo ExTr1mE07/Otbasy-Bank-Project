@@ -4,13 +4,13 @@
 }
 
 .page0-item{
-    padding: 13% 33%;
+    padding: 12% 33%;
 }
 
 .page0-big-text {
     color: #FFFFFF;
     font-size: 64px;
-    margin-bottom: 99px;
+    margin-bottom: 103px;
     display: flex;
     justify-content: center;
     font-weight: 600;
@@ -51,8 +51,8 @@
     color: #FFFFFF;
     border-radius: 30px;
     padding: 9px 0;
-    width: 230px;
-    margin-left: 25%;
+    width: 220px;
+    margin-left: 29%;
     margin-bottom: 30px;
     margin-top: 48px;
 }

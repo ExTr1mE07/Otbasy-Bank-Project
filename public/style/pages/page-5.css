@@ -1,0 +1,50 @@
+.page5-big{
+    display: flex;
+}
+
+.page5-container{
+    margin: 4% 6%;
+    width: 1300px;
+}
+
+.page5-main{
+    display: flex;
+    justify-content: space-between;
+    color: #008B8A;
+    font-size: 30px;
+    margin-bottom: 6%;
+    font-weight: 700;
+}
+
+.page5-main i{
+    margin-right: 40px;
+    font-size: 30px;
+}
+
+.page5-main h2{
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.page5-block{
+    margin-left: 4%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.page5-block a{
+    color: #008B8A;
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 15px 60px;
+    padding-right: 230px;
+    margin-bottom: 40px;
+    border: 1px solid #008B8A;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+#page5-blue{
+    color: #ffffff;
+    background-color: #008B8A;
+}

@@ -2,20 +2,18 @@
     background-color: #008B8A;
     width: 340px;
     height: 100%;
-    text-align: center;
-    margin-top: 10px;
-    
+    text-align: center; 
 }
 
 .header-container h1{
-    padding-top: 12%;
+    padding-top: 15%;
     color: #FFFFFF;
     font-size: 50px;
     font-weight: 700;
 }
 
 .header-container h2{
-    font-size: 17px;
+    font-size: 18px;
     margin-left: 10px;
 }
 
@@ -75,7 +73,7 @@
 
 .header-exit{
     color: #FFFFFF;
-    padding-top: 120%;
+    padding-top: 122%;
     display: flex;
     justify-content: center;
     padding-bottom: 27%;

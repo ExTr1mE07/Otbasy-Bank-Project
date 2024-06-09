@@ -1,0 +1,48 @@
+.page10-big{
+    display: flex;
+    height: 100%;
+}
+
+.page10-container{
+    margin: 4% 7%;
+    width: 1300px;
+}
+
+.page10-main{
+    display: flex;
+    justify-content: space-between;
+    color: #008B8A;
+    font-size: 30px;
+    margin-bottom: 3%;
+    font-weight: 700;
+}
+
+.page10-big h6{
+    margin-left: 30px;
+}
+
+.page10-text{
+    color: #008B8A;
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border: 1px solid #008B8A;
+    font-weight: 600;
+    font-size: 16px;
+    display: block;
+    width: 1150px;
+    margin-left: 30px;
+}
+
+#page10-blue{
+    background-color: #008B8A;
+    color: #ffffff;
+    line-height: 19px;
+    padding: 6px 20px;
+}
+
+#page10-white{
+    line-height: 19px;
+    padding: 6px 20px;
+}

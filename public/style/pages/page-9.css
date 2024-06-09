@@ -1,0 +1,40 @@
+.page9-big{
+    display: flex;
+}
+
+.page9-big h5{
+    margin-left: 30px;
+    color: #008B8A;
+    margin-top: 5%;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.page9-item{
+    margin-left: 30px;
+    display: flex;
+    color: #008B8A;
+    margin-top: 4%;
+}
+
+.page9-item h2{
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.page9-big h4{
+    margin-left: 10px;
+    background-color: aliceblue;
+    color: #008B8A;
+    padding: 30px 20px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.page9-big i{
+    margin-right: 5px;
+}
